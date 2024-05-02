@@ -1,10 +1,23 @@
-<!--
+# Flights
 
-  There will be different types of tasks for each user story:
-    `type: components`
-    `type: css`
-    `type: logic`
-    `type: handlers`
-    ...
+## Created a simple website about movie posters
 
--->
+---
+
+## Image
+
+- I`d like to see high-quality pictures
+
+---
+
+## Info
+
+- I'd like to see title and short description
+
+---
+
+## Data
+
+- I wanna see more details about the movie
+
+---
